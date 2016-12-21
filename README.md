@@ -1,2 +1,2 @@
 # hello-world
-Hello, This is my first GitHub projrct
+Hello, My name Zain and I am a student.
